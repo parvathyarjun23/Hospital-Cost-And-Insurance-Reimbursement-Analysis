@@ -139,12 +139,11 @@ Severity analysis shows:
 _Higher acuity → higher cost → increased financial risk_
 ***
 ### Recommendations
-Cost Optimization- _Orthopedic and Psychiatric diagnoses should be prioritized for cost optimization due to high unit costs and negative margins. Severity-driven cost escalation highlights the need for acuity-based cost control strategies._
-Reimbursement Optimization- _Psychiatric and Orthopedic diagnoses require reimbursement alignment, as Medicare payments consistently underrepresent actual treatment cost._
-Volume-Driven Optimization- _High-volume diagnoses amplify financial impact.
-Loss-making categories (Psychiatric, Orthopedic) increase losses at scale, while Heart Failure offsets losses through strong margins._
-Strategic Growth-_Heart Failure and Neurological Disorders should be expanded due to positive contribution margins and financial sustainability._
-Risk Monitoring- _Implement continuous tracking of: Gap per case,Total loss,Severity-based cost trends_
+- **Cost Optimization** - _Orthopedic and Psychiatric diagnoses should be prioritized for cost optimization due to high unit costs and negative margins. Severity-driven cost escalation highlights the need for acuity-based cost control strategies._
+- **Reimbursement Optimization**- _Psychiatric and Orthopedic diagnoses require reimbursement alignment, as Medicare payments consistently underrepresent actual treatment cost._
+- **Volume-Driven Optimization**- _High-volume diagnoses amplify financial impact. Loss-making categories (Psychiatric, Orthopedic) increase losses at scale, while Heart Failure offsets losses through strong margins._
+- **Strategic Growth**-_Heart Failure and Neurological Disorders should be expanded due to positive contribution margins and financial sustainability._
+- **Risk Monitoring**- _Implement continuous tracking of: Gap per case,Total loss,Severity-based cost trends_
 ***
 ### Tools Used
 - SQL (SQLite)
